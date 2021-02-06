@@ -1,0 +1,5 @@
+{
+"characterURL": "https://pathofexile.com/character-window/get-characters",
+"ladderURL": "http://api.pathofexile.com/ladders/"
+"LastSearched": "Account"
+}
