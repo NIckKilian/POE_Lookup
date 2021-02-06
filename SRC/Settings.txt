@@ -1,5 +1,6 @@
 {
     "LastSearched": "Kiznilian",
     "characterURL": "https://pathofexile.com/character-window/get-characters",
-    "ladderURL": "http://api.pathofexile.com/ladders/"
+    "ladderURL": "http://api.pathofexile.com/ladders/",
+    "profileURL" "https://www.pathofexile.com/account/view-profile/"
 }
