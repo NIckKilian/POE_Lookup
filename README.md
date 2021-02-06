@@ -8,3 +8,4 @@ Using their own API to gather data with JSON Request/Responses.
 
 Settings file contains the URLs to  the API plus the last account you search will be saved
 to use next time you open.
+
