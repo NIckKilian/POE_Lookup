@@ -56,7 +56,7 @@ class Poe_UI(QtWidgets.QMainWindow):
             keys = {}
             keys = self.accountResults[indexSelected]
             #link to POE profile page
-            urlLink = self.settings['profileURL'] + self.ui.txtCharSearch.text() + '/characters">' + \
+            urlLink = '<a href="'+self.settings['profileURL'] + self.ui.txtCharSearch.text() + '/characters">' + \
                       keys['name'] + '</a>'
             # Load labels with  selected charactername
             self.ui.lblNAME.setOpenExternalLinks(True)
